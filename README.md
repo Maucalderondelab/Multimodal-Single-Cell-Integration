@@ -6,3 +6,10 @@ This was a competition hosted by Kaggle with the name [Open Problems - Multimoda
 ## The goal of the competition
 
 The goal of this competition is to predict how DNA, RNA and protein measurments co-vary in single cells as bone marrow stems cell develop into more mature blood cells. I developed a model trained on a subser of 300,000 cwll time course dataser of CD34+ hematopoitic stem and progenitos cells from human donors at five points generated gor the comptetition by Cellaty.
+
+
+## Understanding the competition
+
+To understad the goal of the competition we hace to know what is DNA, RNA and a protein
+
+* DNA
